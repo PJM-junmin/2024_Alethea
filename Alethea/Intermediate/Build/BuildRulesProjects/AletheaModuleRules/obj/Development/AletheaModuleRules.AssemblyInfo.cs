@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AletheaModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2bc0694ab30e96fe29c9ae6f0668c84d5911f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e8bfd80eb4abbe1c3523db553536d1920856dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AletheaModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AletheaModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

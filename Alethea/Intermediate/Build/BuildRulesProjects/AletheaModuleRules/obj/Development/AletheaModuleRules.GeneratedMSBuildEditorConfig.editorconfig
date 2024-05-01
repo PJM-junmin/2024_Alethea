@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AletheaModuleRules
-build_property.ProjectDir = D:\2024_AletheaGameProject\Alethea\Intermediate\Build\BuildRulesProjects\AletheaModuleRules\
+build_property.ProjectDir = D:\2024_Alethea\Alethea\Intermediate\Build\BuildRulesProjects\AletheaModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
