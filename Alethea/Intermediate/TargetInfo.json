@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Alethea",
+			"Path": "..\\Source\\Alethea.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AletheaEditor",
+			"Path": "..\\Source\\AletheaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

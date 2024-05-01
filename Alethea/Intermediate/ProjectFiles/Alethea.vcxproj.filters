@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Alethea.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Alethea.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AletheaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Alethea">
+      <UniqueIdentifier>{DA6EDA90-A0D1-3C58-B966-058BBD54B8BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Alethea\Alethea.Build.cs">
+      <Filter>Source\Alethea</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Alethea\Alethea.cpp">
+      <Filter>Source\Alethea</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Alethea\Alethea.h">
+      <Filter>Source\Alethea</Filter>
+    </ClInclude>
+    <Filter Include="Source\Alethea\Game">
+      <UniqueIdentifier>{D6D62E9F-CE60-3871-91FA-94583154118C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Alethea\Game\ATGameModeBase.cpp">
+      <Filter>Source\Alethea\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Alethea\Game\ATGameModeBase.h">
+      <Filter>Source\Alethea\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
