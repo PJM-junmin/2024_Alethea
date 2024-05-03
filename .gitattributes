@@ -1,1 +1,8 @@
 2024_Alethea filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+SM_EuropeanBeech_Field_01_PP.uasset filter=lfs diff=lfs merge=lfs -text
+SM_EuropeanBeech_Forest_01_PP.uasset filter=lfs diff=lfs merge=lfs -text
+SM_EuropeanBeech_Forest_02_PP.uasset filter=lfs diff=lfs merge=lfs -text
+SM_EuropeanBeech_Forest_03_PP.uasset filter=lfs diff=lfs merge=lfs -text
+
+
