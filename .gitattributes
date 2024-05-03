@@ -12,3 +12,6 @@ T_Impostor_BaseColor_Field_01_Summer.uasset filter=lfs diff=lfs merge=lfs -text
 T_Impostor_BaseColor_Field_01_Winter.uasset filter=lfs diff=lfs merge=lfs -text
 T_Impostor_Normal_Field_01_Summer.uasset filter=lfs diff=lfs merge=lfs -text
 T_Impostor_Normal_Field_01_Winter.uasset filter=lfs diff=lfs merge=lfs -text
+T_Impostor_BaseColor_Forest_01_Summer.uasset filter=lfs diff=lfs merge=lfs -text
+T_EuropeanBeech_Tileable_Mask.uasset filter=lfs diff=lfs merge=lfs -text
+T_EuropeanBeech_Tileable_Normal.uasset filter=lfs diff=lfs merge=lfs -text
